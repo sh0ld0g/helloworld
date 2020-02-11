@@ -1,0 +1,3 @@
+
+dual
+.select(string(BASE64_DECODE('bTh0dDhuZW4=')))
